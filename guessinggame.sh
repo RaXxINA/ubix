@@ -16,6 +16,6 @@ function gameofguessing(){
         fi
     done
 }
-
+echo "Welcome to the guessing game!"
 echo "Guess how many files are in the current directory ?"
 gameofguessing
